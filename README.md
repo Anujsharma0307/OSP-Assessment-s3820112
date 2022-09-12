@@ -14,6 +14,9 @@ For Task 2- <br /><br />  ./Task2 ../Worlists/wlist_match11.txt output2.txt <br 
 For Task 3- <br /><br />  ./Task3 ../Worlists/wlist_match11.txt output3.txt <br /><br />
 For Task 4- <br /><br />  ./Task4 ../Worlists/wlist_match11.txt output4.txt <br /><br />
 
-
+![alt text]()
+![alt text]()
+![alt text]()
+![alt text]()
 
 
